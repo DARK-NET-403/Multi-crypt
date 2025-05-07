@@ -21,7 +21,7 @@ pkg install coreutils -y
 pkg install grep -y
 pkg install dos2unix -y
 pkg install sed -y
-rm -rf Enc
+rm -rf Multi-crypt
 git clone https://github.com/DARK-NET-403/Multi-crypt
 cd Multi-crypt
 chmod +x enc.sh
