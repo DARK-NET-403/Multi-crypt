@@ -22,8 +22,8 @@ pkg install grep -y
 pkg install dos2unix -y
 pkg install sed -y
 rm -rf Enc
-git clone https://github.com/DARK-NET-403/Enc
-cd Enc
+git clone https://github.com/DARK-NET-403/Multi-crypt
+cd Multi-crypt
 chmod +x enc.sh
 ./enc.sh
 ````
