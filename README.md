@@ -15,12 +15,8 @@ DARK-NET
 termux-setup-storage
 pkg update -y
 pkg upgrade -y
-pkg install bash -y
+pip install pyfiglet
 pkg install figlet -y
-pkg install coreutils -y
-pkg install grep -y
-pkg install dos2unix -y
-pkg install sed -y
 rm -rf Multi-crypt
 git clone https://github.com/DARK-NET-403/Multi-crypt
 cd Multi-crypt
