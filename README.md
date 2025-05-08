@@ -20,8 +20,8 @@ pkg install figlet -y
 rm -rf Multi-crypt
 git clone https://github.com/DARK-NET-403/Multi-crypt
 cd Multi-crypt
-chmod +x enc.sh
-./enc.sh
+chmod +x MultiCrypt.bin
+./MultiCrypt.bin
 ````
 #### All Error Was Fixed.If You Find Any Error Contract With Me
 
